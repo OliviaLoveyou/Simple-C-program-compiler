@@ -1,0 +1,21 @@
+type : i32
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+test1
+test2
+test/level2-5/058_short_circuit.s: Assembler messages:
+test/level2-5/058_short_circuit.s:74: 错误： immediate expression requires a # prefix -- `mov r0,v14'
+test/level2-5/058_short_circuit.s:105: 错误： immediate expression requires a # prefix -- `mov r0,v23'
+test/level2-5/058_short_circuit.s:136: 错误： immediate expression requires a # prefix -- `mov r0,v32'

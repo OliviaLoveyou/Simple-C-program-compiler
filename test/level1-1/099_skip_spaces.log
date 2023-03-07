@@ -1,0 +1,3 @@
+type : i1
+timeout: the monitored command dumped core
+Segmentation fault

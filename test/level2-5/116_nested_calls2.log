@@ -1,0 +1,7 @@
+type : i32
+type : i32
+test1
+test2
+qemu: uncaught target signal 4 (Illegal instruction) - core dumped
+timeout: the monitored command dumped core
+Illegal instruction

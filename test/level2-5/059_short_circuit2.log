@@ -1,0 +1,16 @@
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+test1
+test2
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+timeout: the monitored command dumped core
+Segmentation fault

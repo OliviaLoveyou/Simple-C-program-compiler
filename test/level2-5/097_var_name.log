@@ -1,0 +1,5 @@
+type : i1
+type : i32
+type : i32
+timeout: the monitored command dumped core
+Segmentation fault

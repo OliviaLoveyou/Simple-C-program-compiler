@@ -1,0 +1,1 @@
+type array i32[] and array i32[] mismatch 

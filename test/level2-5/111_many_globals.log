@@ -1,0 +1,72 @@
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+test1
+test2
+test/level2-5/111_many_globals.s: Assembler messages:
+test/level2-5/111_many_globals.s:343: 错误： ARM register expected -- `str r16,[fp,#-64]'
+test/level2-5/111_many_globals.s:344: 错误： ARM register expected -- `str r17,[fp,#-60]'
+test/level2-5/111_many_globals.s:345: 错误： ARM register expected -- `str r18,[fp,#-56]'
+test/level2-5/111_many_globals.s:346: 错误： ARM register expected -- `str r19,[fp,#-52]'
+test/level2-5/111_many_globals.s:347: 错误： ARM register expected -- `str r20,[fp,#-48]'
+test/level2-5/111_many_globals.s:348: 错误： ARM register expected -- `str r21,[fp,#-44]'
+test/level2-5/111_many_globals.s:349: 错误： ARM register expected -- `str r22,[fp,#-40]'
+test/level2-5/111_many_globals.s:350: 错误： ARM register expected -- `str r23,[fp,#-36]'
+test/level2-5/111_many_globals.s:351: 错误： ARM register expected -- `str r24,[fp,#-32]'
+test/level2-5/111_many_globals.s:352: 错误： ARM register expected -- `str r25,[fp,#-28]'
+test/level2-5/111_many_globals.s:353: 错误： ARM register expected -- `str r26,[fp,#-24]'
+test/level2-5/111_many_globals.s:354: 错误： ARM register expected -- `str r27,[fp,#-20]'
+test/level2-5/111_many_globals.s:355: 错误： ARM register expected -- `str r28,[fp,#-16]'
+test/level2-5/111_many_globals.s:356: 错误： ARM register expected -- `str r29,[fp,#-12]'
+test/level2-5/111_many_globals.s:357: 错误： ARM register expected -- `str r30,[fp,#-8]'
+test/level2-5/111_many_globals.s:358: 错误： ARM register expected -- `str r31,[fp,#-4]'

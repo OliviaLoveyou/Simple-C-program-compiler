@@ -1,0 +1,12 @@
+type : i1
+type : i32
+type : i32
+type : i1
+type : i32
+test1
+test2
+test/level2-3/088_hanoi.s: Assembler messages:
+test/level2-3/088_hanoi.s:98: 错误： immediate expression requires a # prefix -- `mov r0,v28'
+test/level2-3/088_hanoi.s:99: 错误： immediate expression requires a # prefix -- `mov r1,v29'
+test/level2-3/088_hanoi.s:100: 错误： immediate expression requires a # prefix -- `mov r2,v30'
+test/level2-3/088_hanoi.s:101: 错误： immediate expression requires a # prefix -- `mov r3,v31'

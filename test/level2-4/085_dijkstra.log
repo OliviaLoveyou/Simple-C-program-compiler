@@ -1,0 +1,1 @@
+type array i32[] cannot be assign by i32  

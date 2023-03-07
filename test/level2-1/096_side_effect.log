@@ -1,0 +1,21 @@
+type : i32
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i1
+type : i32
+type : i32
+type : i32
+type : i32
+test1
+test2
+test/level2-1/096_side_effect.s: Assembler messages:
+test/level2-1/096_side_effect.s:9: 错误： bad expression
+test/level2-1/096_side_effect.s:9: 错误： junk at end of line, first unrecognized character is `t'

@@ -1,0 +1,72 @@
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+type : i32
+test1
+test2
+test/level2-5/110_many_params3.s: Assembler messages:
+test/level2-5/110_many_params3.s:143: 错误： ARM register expected -- `str r16,[fp,#-64]'
+test/level2-5/110_many_params3.s:144: 错误： ARM register expected -- `str r17,[fp,#-60]'
+test/level2-5/110_many_params3.s:145: 错误： ARM register expected -- `str r18,[fp,#-56]'
+test/level2-5/110_many_params3.s:146: 错误： ARM register expected -- `str r19,[fp,#-52]'
+test/level2-5/110_many_params3.s:147: 错误： ARM register expected -- `str r20,[fp,#-48]'
+test/level2-5/110_many_params3.s:148: 错误： ARM register expected -- `str r21,[fp,#-44]'
+test/level2-5/110_many_params3.s:149: 错误： ARM register expected -- `str r22,[fp,#-40]'
+test/level2-5/110_many_params3.s:150: 错误： ARM register expected -- `str r23,[fp,#-36]'
+test/level2-5/110_many_params3.s:151: 错误： ARM register expected -- `str r24,[fp,#-32]'
+test/level2-5/110_many_params3.s:152: 错误： ARM register expected -- `str r25,[fp,#-28]'
+test/level2-5/110_many_params3.s:153: 错误： ARM register expected -- `str r26,[fp,#-24]'
+test/level2-5/110_many_params3.s:154: 错误： ARM register expected -- `str r27,[fp,#-20]'
+test/level2-5/110_many_params3.s:155: 错误： ARM register expected -- `str r28,[fp,#-16]'
+test/level2-5/110_many_params3.s:156: 错误： ARM register expected -- `str r29,[fp,#-12]'
+test/level2-5/110_many_params3.s:157: 错误： ARM register expected -- `str r30,[fp,#-8]'
+test/level2-5/110_many_params3.s:158: 错误： ARM register expected -- `str r31,[fp,#-4]'
